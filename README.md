@@ -1,2 +1,2 @@
 # ChallsPersonalWebsite
-Only HTML and CSS 
+HTML, CSS & A bit JS 
